@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/womensrights/static/css/main.e0df47e2.chunk.css",
+    "main.js": "/womensrights/static/js/main.509a02fb.chunk.js",
+    "main.js.map": "/womensrights/static/js/main.509a02fb.chunk.js.map",
+    "runtime-main.js": "/womensrights/static/js/runtime-main.dca25d5a.js",
+    "runtime-main.js.map": "/womensrights/static/js/runtime-main.dca25d5a.js.map",
+    "static/js/2.ff1eab34.chunk.js": "/womensrights/static/js/2.ff1eab34.chunk.js",
+    "static/js/2.ff1eab34.chunk.js.map": "/womensrights/static/js/2.ff1eab34.chunk.js.map",
+    "static/js/3.62774dcd.chunk.js": "/womensrights/static/js/3.62774dcd.chunk.js",
+    "static/js/3.62774dcd.chunk.js.map": "/womensrights/static/js/3.62774dcd.chunk.js.map",
+    "index.html": "/womensrights/index.html",
+    "static/css/main.e0df47e2.chunk.css.map": "/womensrights/static/css/main.e0df47e2.chunk.css.map",
+    "static/js/2.ff1eab34.chunk.js.LICENSE.txt": "/womensrights/static/js/2.ff1eab34.chunk.js.LICENSE.txt",
+    "static/media/1.5661cbff.gif": "/womensrights/static/media/1.5661cbff.gif",
+    "static/media/reset.css": "/womensrights/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dca25d5a.js",
+    "static/js/2.ff1eab34.chunk.js",
+    "static/css/main.e0df47e2.chunk.css",
+    "static/js/main.509a02fb.chunk.js"
+  ]
+}
