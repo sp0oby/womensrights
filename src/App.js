@@ -134,7 +134,7 @@ function App() {
                   You can still buy and trade RIGHT NFTs on{" "}
                   <a
                     target={""}
-                    href={"www.opensea.io"} // OPENSEA LINK AFTER LAUNCH
+                    href={"https://opensea.io/collection/awomansright"} // OPENSEA LINK AFTER LAUNCH
                   >
                     Opensea.io
                   </a>
